@@ -1,0 +1,19 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 100px;
+    margin: 50px;
+    border: 2px black solid;
+}
+
+button {
+    margin: 5px;
+    font-size: 1rem;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
